@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Internal Affairs
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+the stuff is on the left
+
+< ----------------------------------------------
+< ----------------------------------------------
+< ----------------------------------------------
+
+ill update this title page later
