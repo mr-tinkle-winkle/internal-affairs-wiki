@@ -1,0 +1,51 @@
+# Notes on the interface and data
+- Every player has a unique ID. This is in the form of a >3 digit number. 
+	- The numbers will begin as "001-", and progress through the thousands linearly, counting the players. 
+	- Pre-testers will have the 000 prefix, while staff and developers get their own custom ID. 
+	- The format will INITIALLY follow "XXX-YYYY" format, but if we somehow manage to reach the limit of the ID format, it will extend automatically, adding 1 to the X.
+		- Example : After 999-9999, 1000-0000 will come into existence. After 9999-9999, 10000-0000 will come into existence. This ensures that, no matter how many players we get, we will not need to perform any manual fixes.
+	- There are also occasionally 'burner' IDs, which are impossible for a player to have. These are mission specific. 
+		- A few examples:
+			- You have to trade with another group. That group is given a burner phone, and you are given the number to the burner phone. The burner phone blows up 30 seconds after the deal is completed.
+			- You have to call an NPC in order to receive a 'hit' mission. They will have a burner ID.
+		- Here are a few examples of what a burner ID may look like:
+			- dik-4200
+			- cok-6969
+			- big-balls
+			- agc-bdgf
+		- A 'burner phone' is also an item. If a player somehow obtains a burner phone without the phone having an ID registered to it, the first prompt that shows up will ask the player to register an ID to the phone. The player can input any ID (3 alphanumeric characters minimum followed by a hyphen followed by atleast 2 alphanumeric characters), so long as that ID is not owned by a developer and is not JUST numbers.
+			- Burner phones are not able to use any mission related apps.
+- The phone is not necessarily an item in the normal way, as it does not take up inventory space, but is instead on a keybind-- but it DOES come out as an item, and can be thrown and dropped just like any other item.
+	- If the player loses their phone, they will get a new one after 1 minute.
+		- Their old phone WILL still work though, so you want to avoid letting anyone else find your phone.
+# System
+These are things you can do directly in the phone, e.g. settings. This is also how you access the game settings. The phone is essentially the main menu, but you CAN get a simplified main menu by pressing escape if you must use your main menu.
+# Apps
+- Contacts
+	- This allows you to save any ID as a contact. You can also message or call from this app, although it will just bring you to the other apps.
+- Messages
+	- This allows you to text any of your contacts, OR text a specific person by entering their ID. 
+- Phone
+	- The phone, as expected, allows you to call other players by dialing their phone number.
+	- During a call, you can turn on 'Speaker', which makes the call loud enough to be heard by people around you
+	- During a call, you can turn on 'Video', which shows a video feed to the other player. There is also a 'Flip Camera' button, which will flip the camera 180 degrees.
+- Flashlight
+	- You can choose the brightness and color of the flashlight, and there is also some presets for a changing color. Here are the presets.
+		- RGB makes it cycle in a wave through the color spectrum.
+		- Disco makes it cycle choppily through the color spectrum.
+		- Repeat makes it cycle through on and off choppily.
+		- Smooth Repeat makes it cycle through on and off in a wave of brightness.
+- Snake
+	- Completely self explanatory.
+- Minesweeper
+	- Completely self explanatory.
+- Affairs
+	- This app allows you to access all of the [[Affairs]].
+	- You can see current Affairs, regardless of team status.
+		- You can also see the reward for each team to do each Affair, the length, and the difficulty.
+		- Some Affairs wil be hidden from sight from those who are not intended to do them.
+		- Affairs will say 'Settled' if they are completed.
+			- Each Affair has a time limit-- a few hours, a day, or a week.
+- Tracker
+	- The Tracker app allows the player to see the distance (rounded to the nearest 25 meters-- will say "Extremely Close" if rounded down to 0 meters) between them and the intel.
+	- This is not on normal phones, and will be exclusively available on Burner Phones that have it.

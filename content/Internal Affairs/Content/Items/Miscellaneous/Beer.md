@@ -1,0 +1,1 @@
+Gives the player a noticable HP boost, but makes them 'Intoxicated', which significantly lowers the responsiveness of the character, distorts the visuals, slightly distorts incoming audio, and massively distorts the players' voice. Punches also deal more damage in this mode.

@@ -1,0 +1,1 @@
+F is the 'Primary Ability' keybind, G is the 'Secondary Ability' keybind, and H is the 'Tertiary Ability' keybind.

@@ -1,0 +1,1 @@
+This is a variant of the Boxing Glove that functions the exact same way, but when a certain button is pressed, punches now extend out like a cartoon.

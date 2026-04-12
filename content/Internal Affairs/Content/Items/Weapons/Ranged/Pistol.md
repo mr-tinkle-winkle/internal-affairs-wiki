@@ -1,0 +1,1 @@
+A semi-automatic light firearm.

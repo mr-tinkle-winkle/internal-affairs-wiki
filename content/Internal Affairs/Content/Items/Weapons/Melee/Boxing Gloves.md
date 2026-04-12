@@ -1,0 +1,1 @@
+Very simple, and just buffs the damage of melee punches.

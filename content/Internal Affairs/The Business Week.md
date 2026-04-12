@@ -1,0 +1,1 @@
+The game takes place Monday through Friday, and 'resets' once a week-- a round is one day, and a full game is one week. 

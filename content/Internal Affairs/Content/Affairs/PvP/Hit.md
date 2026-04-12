@@ -1,0 +1,1 @@
+The game will tell you to kill a specific player-- usually the highest earning player on an opposing team.

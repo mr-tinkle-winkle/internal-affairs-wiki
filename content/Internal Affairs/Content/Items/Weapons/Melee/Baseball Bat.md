@@ -1,0 +1,1 @@
+Is able to be swung around by the player in order to deal large amounts of damage to enemies.
