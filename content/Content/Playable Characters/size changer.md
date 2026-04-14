@@ -1,0 +1,13 @@
+# Functions
+- is the smallest and largest robot in the game
+- in large mode, has a higher strength stat by a long shot than every other character, allowing him to pick up cars, throw other robots like a catapult, etc
+- pressing F 
+	- charges up a piston-powered punch that has a LOT of force behind it in heavy mode
+	- 
+- pressing G 
+	- allows you to leap in the direction of your camera with great strength, launching anything on the floor nearby you away in heavy mode.
+	- allows you to fly with a jetpack while mini
+- pressing H allows you to swap between mini, normal, and large by scrolling (no scroll = normal, scroll down = small, scroll up = large).
+- if you fly into something with enough force as the heavy mode, you create a shockwave that launches away nearby players.
+# Design
+# Personality
