@@ -3,7 +3,9 @@
 - in large mode, has a higher strength stat by a long shot than every other character, allowing him to pick up cars, throw other robots like a catapult, etc
 - pressing F 
 	- charges up a piston-powered punch that has a LOT of force behind it in heavy mode
-	- 
+	- tosses a ventriloquist esque gadget in mini mode.
+		- this gadget makes the players' voice come from the mine rather than from their character.
+		- this gadget also allows the player to hear what is around the gadget, regardless of where they are.
 - pressing G 
 	- allows you to leap in the direction of your camera with great strength, launching anything on the floor nearby you away in heavy mode.
 	- allows you to fly with a jetpack while mini
