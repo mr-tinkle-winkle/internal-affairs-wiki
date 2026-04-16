@@ -1,1 +1,2 @@
-Is able to be swung around by the player in order to deal large amounts of damage to enemies.
+- Click to extend, player must swing weapon around to deal damage.
+- Has reasonably high knockback and reasonably high damage.

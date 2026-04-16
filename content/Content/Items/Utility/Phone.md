@@ -18,6 +18,7 @@
 - The phone is not necessarily an item in the normal way, as it does not take up inventory space, but is instead on a keybind-- but it DOES come out as an item, and can be thrown and dropped just like any other item.
 	- If the player loses their phone, they will get a new one after 1 minute.
 		- Their old phone WILL still work though, so you want to avoid letting anyone else find your phone.
+	- The keybind to access the phone is P.
 # System
 These are things you can do directly in the phone, e.g. settings. This is also how you access the game settings. The phone is essentially the main menu, but you CAN get a simplified main menu by pressing escape if you must use your main menu.
 # Apps

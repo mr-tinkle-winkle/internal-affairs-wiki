@@ -5,6 +5,7 @@
 	- Jumping just kicks the players feet down with force. If there is nothing below the player, the jump will look to the sides for walls to kick off of. If it finds a wall, it will kick off forward and upwards, with a slight outward push obviously.
 - Z = Ragdoll (hold by default, toggle option in settings)
 - CTRL = Crouch
+	- Crouch also makes the player attempt to stand up.
 - Scroll = 'Change Movement Mode'
 	- Aim/Focus
 		- This will cause the player to aim any weapon held. If they are holding a melee weapon, it will hold it in a threatening pose.

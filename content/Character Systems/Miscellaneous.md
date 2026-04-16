@@ -1,0 +1,2 @@
+- The player can Spit by pressing T.
+- The player can fidget with whatever is in their hand (provided that it has a fidget animation) by pressing J.

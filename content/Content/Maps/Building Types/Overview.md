@@ -1,0 +1,1 @@
+Building Types are a specific kind of building that functions the same across maps, but may have a different structure.

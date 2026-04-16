@@ -1,0 +1,1 @@
+The game should be jazzpunk-esque in aesthetic, and comic-y in actual presentation. Sort of like how Borderlands mixes realism with a comic art style, we should just have a comic art style. Probably with onomatopoeia for vfx too.
