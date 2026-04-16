@@ -1,0 +1,1 @@
+ACTUALLY explain what each setting does, or at the very least say what the setting does in regards to performance.
