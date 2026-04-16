@@ -26,6 +26,15 @@ These are things you can do directly in the phone, e.g. settings. This is also h
 	- This allows you to save any ID as a contact. You can also message or call from this app, although it will just bring you to the other apps.
 - Messages
 	- This allows you to text any of your contacts, OR text a specific person by entering their ID. 
+- Camera
+	- The player can take pictures from the front and back camera of the phone. These will be saved to local storage on the users' device, and will also be accessible on the phone in the Gallery app.
+	- The player can take videos from the front and back camera of the phone. These will be saved to local storage, same as photos.
+	- The player can change the following settings :
+		- Camera FOV
+- Gallery
+	- Can access photos and videos taken in the Camera app.
+	- Other players can not see photos and videos unless you send it to them on Messages and they download it.
+		- This is to reduce lag, as syncing every players' photos and videos would be ENORMOUS on storage, especially if one dude has like 4 gigabytes of videos stored after playing for a while.
 - Phone
 	- The phone, as expected, allows you to call other players by dialing their phone number.
 	- During a call, you can turn on 'Speaker', which makes the call loud enough to be heard by people around you
