@@ -1,0 +1,1 @@
+These will prevent a player from using any of their hand items. They take 1 second to force onto another player. Putting it on another player is instant if the player is knocked out.

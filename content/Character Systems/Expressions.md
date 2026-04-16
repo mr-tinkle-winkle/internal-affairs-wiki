@@ -22,6 +22,13 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 - Thumbs Up
 - Middle Finger
 	- maybe call it Peace Among Worlds as a rick and morty reference
+- Pockets
+	- has the hands in the pockets
+- Sassy
+	- has the hands on the hips
+- Thinker
+	- thinking pose like the thinker statue
+
 
 
 # Voice Volume

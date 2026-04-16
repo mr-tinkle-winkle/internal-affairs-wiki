@@ -1,0 +1,1 @@
+Increases the players' strength and damage at the cost of reduced HP.

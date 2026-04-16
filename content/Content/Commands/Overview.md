@@ -1,0 +1,23 @@
+Owners, Staff, Testers, and Server Admins have commands. All commands are listed below.
+
+
+Notes:
+- All durations that are unspecified will result in infinite time.
+- All reasons that are unspecified will result in 'unspecified' reason.
+
+- sudo -player OR id- .......
+	- allows the admin to fake a player saying something. it will appear over the players' head.
+- invis -player- -duration-
+- disguise -receiver- -disguise-
+	- allows the receiver to don the character and name and cosmetics of the disguise player.
+- possess -receiver- -possessed-
+	- allows the receiver to possess the possessed player.
+- invincible -player- -duration-
+- fly -player- -duration-
+- ban -player- -duration- -reason-
+- kick -player- -reason-
+- gameban -player- -duration- -reason-
+	- uses a discord webhook to send all bans to a bans channel
+- crash -player- -reason-
+- tank -player- -duration-
+	- gives the player 99% damage reduction and amplifies the force output by 10x (not the actual strength, but the 'felt' force on receiving objects, such as players getting punched)
