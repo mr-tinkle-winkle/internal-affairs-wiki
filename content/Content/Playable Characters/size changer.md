@@ -14,4 +14,8 @@
 	- size changer 'normal' size is the 'default' or 'blank' character, for use with basic npcs or non-character modes or whatever.
 - if you fly into something with enough force as the heavy mode, you create a shockwave that launches away nearby players.
 # Design
-# Personality
+#### Mini Mode
+#### Normal Mode
+#### Heavy Mode
+- round torso
+- very 'full' arms

@@ -5,4 +5,3 @@ this robot is just drunk all the time and thats his shtick
 - can 
 - can pass out on H, which heals the player and makes them have 75% damage reduction while passed out.
 # Design
-# Personality

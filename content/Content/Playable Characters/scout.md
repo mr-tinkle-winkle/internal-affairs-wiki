@@ -8,4 +8,6 @@
 - big eyes
 - maybe a big head
 - somewhat thin
-# Personality
+- V shaped torso
+- big bow tie of the company color
+- tuxedo

@@ -1,2 +1,5 @@
 - The player can Spit by pressing T.
 - The player can fidget with whatever is in their hand (provided that it has a fidget animation) by pressing J.
+- The players' character is rendered above the Hand Slots in a wireframe view.
+	- This is called the 'Character Visualizer'.
+	- The point of this is to give the player a good idea as to their players' orientation.

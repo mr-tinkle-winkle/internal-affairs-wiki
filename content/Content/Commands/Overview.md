@@ -21,3 +21,6 @@ Notes:
 - crash -player- -reason-
 - tank -player- -duration-
 	- gives the player 99% damage reduction and amplifies the force output by 10x (not the actual strength, but the 'felt' force on receiving objects, such as players getting punched)
+- selectiveinvis -player- -receiver-
+	- This toggles the receiver being able to see the player. If the receiver can currently see the player, it makes the receiver unable to see the player. If the receiver can not currently see the player, it makes the receiver able to see the player.
+		- This is specifically in reference to 'invisibility', it is not a form of ESP.
