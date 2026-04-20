@@ -1,0 +1,1 @@
+This involves the player going to one or multiple locations to deliver some item. This CAN be paired with other Cleaning Up missions.

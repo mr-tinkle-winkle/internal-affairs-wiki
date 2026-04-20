@@ -57,5 +57,7 @@ These are things you can do directly in the phone, e.g. settings. This is also h
 		- Affairs will say 'Settled' if they are completed.
 			- Each Affair has a time limit-- a few hours, a day, or a week.
 - Tracker
-	- The Tracker app allows the player to see the distance (rounded to the nearest 25 meters-- will say "Extremely Close" if rounded down to 0 meters) between them and the intel.
+	- The Tracker app allows the player to see the distance (rounded to the nearest 25 meters- - will say "Extremely Close" if rounded down to 0 meters) between them and the intel.
 	- This is not on normal phones, and will be exclusively available on Burner Phones that have it.
+- Clicker
+	- The Clicker app allows the player to play a idle simulator game. Might not add.

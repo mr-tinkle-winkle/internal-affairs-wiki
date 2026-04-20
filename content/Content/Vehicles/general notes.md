@@ -1,0 +1,1 @@
+- Crouching in a vehicle, if applicable, will cause the player to lean out the window.

@@ -1,0 +1,2 @@
+- when aiming, there is no scope.
+- if the player aims further (by scrolling more), scopes will rotate in from the sides. progressively more and more scopes will rotate in as the player zooms further and further in.

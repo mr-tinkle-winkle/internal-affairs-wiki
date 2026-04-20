@@ -1,1 +1,1 @@
-Self explanatory. Has a Hide and Seek variant.
+Self explanatory. Has a Hide and Seek variant. Has a Prop Hunt variant.

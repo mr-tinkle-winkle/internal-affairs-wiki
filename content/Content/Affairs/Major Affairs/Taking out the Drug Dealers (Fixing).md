@@ -1,0 +1,1 @@
+This involves going to a building, killing everyone, and retrieving the Drugs. This will always lead into a [[Eliminate Remaining Members (Cleaning Up)]] [[Delivery (Cleaning Up)]] pair, where the player must bring all found drugs from remaining members to a drop off point.

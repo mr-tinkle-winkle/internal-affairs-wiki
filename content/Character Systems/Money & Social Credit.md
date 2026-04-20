@@ -4,9 +4,13 @@ Money is relatively self explanatory. You can find your money in any ATM.
 Social Credit is our games' equivalent of Corporate Rating. Social Credit is a direct multiplier to how much money you make, and there are a variety of ways to gain Social Credit, which are the following
 - Completing Affairs
 - Donating to the megacorp that we havent named yet (will be done at a specific building)
+- Saying "Love you" before ending a phone call
+- Doing a clean deal (both sides complete the mission)
 You can lose social credit as well, in the following ways : 
 - Going into debt with money (will take from your Social Credit)
 - Killing Civilians
+- Saying the hard R (ever)
+- Saying faggot (ever)
 
 If your Social Credit goes into the negative, you will be 'Blacklisted'.
 

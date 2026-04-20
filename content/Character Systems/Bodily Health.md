@@ -33,6 +33,7 @@ Non-Symmetrical Parts
 		- If you kill somebody via the Head with Impact Damage (but without enough 'overkill damage'), they will instead be knocked out.
 	- The player dies immediately if this limb runs out of hp.
 	- This limb will cause the player to be 'concussed' upon taking damage, which will reduce the players' strength and 
+		- Concussions will cause the players' eyes to spin around.
 - Neck
 	- Sharp Damage is effective.
 - Chest

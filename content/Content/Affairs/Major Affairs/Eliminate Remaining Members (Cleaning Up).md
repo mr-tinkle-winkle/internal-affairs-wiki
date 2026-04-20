@@ -1,0 +1,1 @@
+This is a general final mission for Major Affairs. This will involve the player going around the city and taking out stray members and small buildings that include the members. This CAN be paired with other Cleaning Up missions.
