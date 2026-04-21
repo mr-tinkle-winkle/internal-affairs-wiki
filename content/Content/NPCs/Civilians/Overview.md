@@ -8,3 +8,4 @@ Every Civilian NPC has stats. These all range from 0 to 10.
 - Hated Companies
 	- Determines the company the NPC hates. If the 'perpetrator' of their anger is somebody from that company, the NPC will have their Aggression stat effectively multiplied against that company.
 		- This means that they will become more angry with those that work for companies they hate, and that they will become angry with them easier.
+The Civilian NPCs are all robots-- they are essentially robots from before [[Marty Robot]] ruined robot rights.

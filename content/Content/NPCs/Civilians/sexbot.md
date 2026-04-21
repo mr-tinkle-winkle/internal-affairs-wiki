@@ -1,0 +1,1 @@
+This character is a sex bot that no longer has a purpose due to the loss of robot rights.
