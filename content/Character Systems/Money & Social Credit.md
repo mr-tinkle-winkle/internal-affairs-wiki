@@ -10,6 +10,7 @@ You can lose social credit as well, in the following ways :
 - Going into debt with money (will take from your Social Credit)
 - Killing Civilians
 - Saying the hard R (ever)
+- Saying Heil Hitler
 - Saying faggot (ever)
 
 If your Social Credit goes into the negative, you will be 'Blacklisted'.
@@ -19,3 +20,5 @@ Being Blacklisted does the following:
 - There WILL be a hit out on you for the duration of your blacklist.
 - Civilians will attack you.
 - You will have a dunce cap.
+
+Gaining Social Credit, Losing Social Credit, and getting Blacklisted will all have their own noises.

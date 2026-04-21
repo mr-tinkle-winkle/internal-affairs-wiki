@@ -1,0 +1,1 @@
+A catapult that folds into item form. Once unfolded, functions pretty much identically to the Human Fall Flat catapults.
