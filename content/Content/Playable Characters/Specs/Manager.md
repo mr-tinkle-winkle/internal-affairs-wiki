@@ -8,10 +8,39 @@ This character is exclusive to [[Games/Internal Affairs/Content/Companies/Plurib
 - Immune to ALL social credit changes-- any money gained automatically assumes the maximum social credit.
 - All damage taken will be reflected back at the perpetrator.
 	- The player will still receive the knockback.
+- Bullets will pause before hitting the Manager, and will instead just drop to the floor.
 - Holding CTRL will, ontop of the default 'righting' posture given, SIGNIFICANTLY increase the mass and strength of the player.
 	- This will make the player essentially immune to knockback.
-- Pressing F will
-- Pressing G will
+- Jumping while Crouching will allow The Manager to fly.
+- Pressing F will give the player a GUI similar to the Roblox 'Explorer'.
+	- If you press F while looking at a player, it will specifically open their character.
+		- This will allow you to do things like:
+			- Deleting limbs
+			- Changing mass
+			- Freezing limbs (or the entire character)
+			- Editing HP
+			- Editing strength
+			- Editing Social Credit
+			- Editing Money
+		- The same applies to objects-- pressing F while looking at a physics object will open that physics objects' code.
+			- You can not permanently save (as seen below) anything to any physics objects.
+	- There is a 'Permanent Save' option, which will save the specific edit PERMANENTLY.
+		- For example, if you deleted a players' right arm and then saved it, the player will NEVER have a right arm again.
+		- This option is visible on each property change, and there is a 'Save All' in the bottom right.
+		- If a player uses a different character, any changes will be proportional.
+			- If their limb strength went from 1 to 0.5, and then they play a character with 2 limb strength, their limb strength on that character will be 1.
+		- Changing Social Credit can be permanent (which will lock the player at that Social Credit).
+			- The same applies for Money.
+	- When the player is in the Explorer, they are invincible and immovable by any physics objects.
+- Pressing G will place the object or player you are looking at 'in stasis'
+	- This will make the player appear ragdolled to outside observers.
+		- Their ragdoll is invincible.
+	- To the player who is in stasis, they will be in a pitch black void dimension.
+		- You can collide with the actual map, it is just that the player is unable to see it.
+	- The Manager can transport to this dimension by pressing G while looking at themselves.
+		- The Manager disappears when entering this dimension.
+		- To the Manager, the Void Dimension is just a dark copy of the normal map.
+		- The Manager can use this dimension for transportation.
 - Pressing H will 'freeze' everything in a 10 meter radius.
 	- CTRL + Scroll will increase the radius of this sphere.
 		- If you CTRL + H to create the time stop, it will automatically apply to the entire server.
@@ -20,3 +49,4 @@ This character is exclusive to [[Games/Internal Affairs/Content/Companies/Plurib
 			- The player will automatically be exempt from their own timestops, as well as everything in their inventory.
 	- ALT + Scroll will allow you to choose the 'speed' at which anything in this radius moves at. By default, this will change the speed by 10% every scroll.
 # Design
+- maybe literally just a pitch black void

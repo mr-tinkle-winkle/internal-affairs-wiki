@@ -1,0 +1,1 @@
+Round is just a smaller timescale version of World, set in a smaller map.
