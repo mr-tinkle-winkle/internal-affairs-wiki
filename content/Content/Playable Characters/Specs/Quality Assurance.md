@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus]] members, specifically those with 'Tester' ranking.
+This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with 'Tester' ranking.
 # Functions
 - Pressing F will allow the player to teleport to their cursor.
 - Pressing G will allow the player to have ESP.
@@ -11,4 +11,5 @@ This character is exclusive to [[Games/Internal Affairs/Content/Companies/Plurib
 - Pressing H will open up the character menu as if the tester was picking a character to spawn as, but this time it would not be a permanent pick.
 	- Upon death OR pressing the '|' key, the player will revert back to this spec, and regain their HP.
 	- Switching characters will not change the players' location.
+	- This may be a worthwhile character for higher-ups to play as, because you can choose any character you have access to- you can switch between any specs you own.
 # Design

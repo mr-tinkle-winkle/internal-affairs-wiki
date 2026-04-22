@@ -30,3 +30,6 @@ Notes:
 	- This toggles being able to hear the other player. The player that sends this command is the only one who will become unable to hear the other player.
 - hush -player- -duration- -reason-
 	- This is essentially the mod equivalent of muting somebody-- it will make them unable to be heard by ANYONE.
+- explode
+	- This makes any location clicked by the player explode.
+	- Holding click will repeatedly explode the area.

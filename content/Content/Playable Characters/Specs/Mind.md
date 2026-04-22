@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus]] members, specifically those with the "Staff" ranking.
+This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with the "Staff" ranking.
 # Functions
 - Pressing F will 'silence' a player.
 	- This prevents the player from moving or using their abilities, and significantly lowers their voice volume.
