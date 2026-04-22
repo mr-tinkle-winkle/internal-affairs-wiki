@@ -1,0 +1,1 @@
+This is where the player can 'donate money' to increase their [[Money & Social Credit|Social Credit]].

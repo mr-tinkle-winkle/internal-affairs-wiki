@@ -1,0 +1,1 @@
+Essentially just does what Yell Voice Volume does, but both directed and with a significantly larger radius.
