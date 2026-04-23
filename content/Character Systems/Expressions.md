@@ -17,6 +17,8 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 - Disgust
 - Sleepy
 - High
+- Blue Steel
+	- Zoolander reference. This will morph the players' face into a mogging appearance.
 # Body Emotes
 - Clapping
 - Thumbs Up

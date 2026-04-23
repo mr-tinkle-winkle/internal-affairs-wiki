@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with the "Developer" rank.
+This character is exclusive to [[Pluribus|Pluribus]] members, specifically those with the "Developer" rank.
 
 # Functions
 - Pressing F will freeze the object you are looking at.

@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with 'Tester' ranking.
+This character is exclusive to [[Pluribus|Pluribus]] members, specifically those with 'Tester' ranking.
 # Functions
 - Pressing F will allow the player to teleport to their cursor.
 - Pressing G will allow the player to have ESP.

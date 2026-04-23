@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with the 'Staff' ranking.
+This character is exclusive to [[Pluribus|Pluribus]] members, specifically those with the 'Staff' ranking.
 # Functions
 - pressing F will cause an explosion where your right hand is pointing
 	- this explosion does not damage you, but will damage other players

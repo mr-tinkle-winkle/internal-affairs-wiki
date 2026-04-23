@@ -1,4 +1,4 @@
-This character is exclusive to [[Games/Internal Affairs/Content/Companies/Pluribus|Pluribus]] members, specifically those with the "Owner" rank.
+This character is exclusive to [[Pluribus|Pluribus]] members, specifically those with the "Owner" rank.
 
 # Functions
 - Has constant ESP on all players, although it is typically very transparent, only becoming very opaque when entering Aim Mode.

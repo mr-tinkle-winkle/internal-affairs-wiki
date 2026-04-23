@@ -33,3 +33,5 @@ Notes:
 - explode
 	- This makes any location clicked by the player explode.
 	- Holding click will repeatedly explode the area.
+- setcompany -player- -company-
+- setchar -player- -character-
