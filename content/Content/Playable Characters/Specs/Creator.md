@@ -10,5 +10,6 @@ This character is exclusive to [[Pluribus|Pluribus]] members, specifically those
 		- Pressing G will toggle gravity on the selected object rather than the object you are looking at.
 		- Scrolling will change the size of the selected object, and proportionally change the mass.
 		- Left Click will pause the object, freezing it in place.
+		- Right Click will give the player a Gravity Gun esque control of the object.
 	- The selected object will have a highlight, visible only to this player.
 # Design

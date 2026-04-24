@@ -14,4 +14,6 @@ With that established, here is how the system applies to each function.
 - If the player grabs an item that can be picked up, the player will automatically pick it up and it will go into one of their inventory slots.
 # Parkour
 - Holding Jump while grabbing and object will cause you to pull up. This can be used to climb walls, swing to prepare for poles, or whatever. The player will pull up in the direction of their movement, or just straight up if they are not moving in any direction.
+- If the player holds crouch while doing a Pull Up, they will instead only bend their arms.
+- The 'purpose' of this is to allow the player more fine control of their limbs, allowing things like monkey bars.
 - Holding a movement key while held onto an object and airborne will cause the player to swing slightly in the direction that they hold. The player can do these back and forth to actually get some good momentum.

@@ -1,0 +1,1 @@
+Break or otherwise 'kill' every one of a player's limbs.

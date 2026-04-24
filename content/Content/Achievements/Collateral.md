@@ -1,0 +1,1 @@
+Kill 4 players OR 15 npcs with one attack.

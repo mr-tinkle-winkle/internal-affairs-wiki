@@ -1,0 +1,1 @@
+This is any column esque structure that can rotate down and create a 'bridge' between rooftops. This will primarily be things like scaffolding with a broken corner, poles that bend a lot, or anything of that sort.

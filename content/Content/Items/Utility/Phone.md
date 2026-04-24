@@ -13,6 +13,7 @@
 			- cok-6969
 			- big-balls
 			- agc-bdgf
+			- Burner ID intros depend on the parent company.
 		- A 'burner phone' is also an item. If a player somehow obtains a burner phone without the phone having an ID registered to it, the first prompt that shows up will ask the player to register an ID to the phone. The player can input any ID (3 alphanumeric characters minimum followed by a hyphen followed by atleast 2 alphanumeric characters), so long as that ID is not owned by a developer and is not JUST numbers.
 			- Burner phones are not able to use any mission related apps.
 - The phone is not necessarily an item in the normal way, as it does not take up inventory space, but is instead on a keybind-- but it DOES come out as an item, and can be thrown and dropped just like any other item.

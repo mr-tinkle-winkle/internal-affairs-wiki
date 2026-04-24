@@ -1,0 +1,1 @@
+This is a pole that is able to be grabbed onto, but has very little friction, making the player slide down the pole.

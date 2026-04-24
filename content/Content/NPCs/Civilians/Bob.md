@@ -1,0 +1,1 @@
+Bob has average stats across the board and has no hated companies.

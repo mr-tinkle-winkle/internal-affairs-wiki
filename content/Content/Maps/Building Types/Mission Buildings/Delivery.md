@@ -1,0 +1,1 @@
+This is either a building or an area.

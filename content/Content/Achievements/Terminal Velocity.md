@@ -1,0 +1,1 @@
+Reach a velocity equal to or higher than terminal velocity.

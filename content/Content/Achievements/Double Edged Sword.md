@@ -1,0 +1,1 @@
+Kill a player exactly when they kill you.

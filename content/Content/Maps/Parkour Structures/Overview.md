@@ -1,0 +1,1 @@
+These are types of models built with the purpose of making parkour viable and fun. They may be static or dynamic, depending on their purpose. They also may have specific areas, or they may not.

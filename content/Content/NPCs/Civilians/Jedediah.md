@@ -1,5 +1,1 @@
-# Stats
-- Aggression
-- Health
-- Strength
-- Hated Companies
+Jedediah hates every company, and has maxed out stats.

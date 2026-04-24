@@ -1,0 +1,1 @@
+Land a Sticky [[Grenade]] directly on a player.

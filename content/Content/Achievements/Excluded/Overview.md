@@ -1,0 +1,1 @@
+These are achievements that rely on temporary events, staff members, etc. They do not count towards Steam Achievements.

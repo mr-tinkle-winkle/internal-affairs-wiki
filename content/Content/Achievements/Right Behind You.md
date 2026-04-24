@@ -1,0 +1,1 @@
+As the [[spy]], kill a player while disguised.
