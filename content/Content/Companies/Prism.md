@@ -2,6 +2,7 @@
 - Blue and purple color scheme
 - Is the creator of all of the 'doodads' and such.
 	- This means that playing on this team will give you freedom to choose one techy item for free.
+- 'pri' burner ID
 
 # Lore/Design
 - Is the youngest of the three companies.

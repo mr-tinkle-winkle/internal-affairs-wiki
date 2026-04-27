@@ -5,3 +5,5 @@ Pluribus does not have a consistent color scheme, although it trends towards 'pu
 Pluribus is the oldest company, dating back to the 'old days'.
 
 Pluribus as a word comes from the phrase 'e pluribus unum', which means "out of many, one."
+
+Pluribus has no burner phones, but if a burner phone was to somehow be registered to pluribus, the ID would begin with '---'.
