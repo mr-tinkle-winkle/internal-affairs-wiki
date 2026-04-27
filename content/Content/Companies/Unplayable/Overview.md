@@ -1,0 +1,1 @@
+These are just companies that exist, but are unplayable by normal players. These may be lore companies, or they may be dev/staff companies.
