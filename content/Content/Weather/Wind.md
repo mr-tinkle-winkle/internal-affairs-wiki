@@ -1,0 +1,3 @@
+This is a relatively self explanatory one. The entire city will have wind effecting it. In the interest of performance, how strongly you will be affected by the wind will be based on how clear the sky is above you. In other words, being in a building where there is no sky above you will make you safe from the wind, while being halfway inside and outside of that same room would make you half affected, and being fully outside would make you fully affected.
+
+The wind is not strong enough to flip cars on its own, but strong enough to make cars dangerous to drive due to the danger of flipping when turning.

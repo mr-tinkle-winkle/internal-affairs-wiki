@@ -1,0 +1,1 @@
+This causes the exposed ground to become slick with water, causing the player to have less friction (and be likely to slip if running too fast).

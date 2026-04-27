@@ -11,12 +11,15 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 
 # Facial Emotes
 - Angry
+	- maybe have a red vein like the cartoon angry effect
 - Sad
 - Shocked
 - Fear
 - Disgust
-- Sleepy
+- Sleeping
+	- have Zs come off their face and stuff
 - High
+	- maybe make their eyes red
 - Blue Steel
 	- Zoolander reference. This will morph the players' face into a mogging appearance.
 # Body Emotes
@@ -30,6 +33,9 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 	- has the hands on the hips
 - Thinker
 	- thinking pose like the thinker statue
+- Drain
+	- pee out oil
+	- can be performed at the same time as other body emotes
 
 
 
@@ -37,3 +43,7 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 - Whisper
 - Normal
 - Yell
+- Pitching
+	- This is separate from the volume bars, but is in the same area.
+	- This is a ON / OFF switch (on by default), which will make the players' voice pitch match the angle that they are looking.
+		- For example, looking up will increase the pitch of your voice, and looking down will decrease it.

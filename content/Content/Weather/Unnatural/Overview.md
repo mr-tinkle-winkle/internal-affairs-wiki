@@ -1,0 +1,1 @@
+These are weather events that are never triggered without some form of player or moderator input.

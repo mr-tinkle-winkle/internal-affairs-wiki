@@ -13,3 +13,5 @@
 - maybe a super small head
 	- if a super small head, maybe the disguise (to teammates) looks like the spy just putting on the head of another robot
 - probably pretty slim horizontally speaking
+- huge moustache
+- hook nose and jutted eyebrows

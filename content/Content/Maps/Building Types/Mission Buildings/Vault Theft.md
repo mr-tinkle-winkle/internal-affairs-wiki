@@ -1,0 +1,1 @@
+player has to do some parkour and some puzzle solving to open the vault

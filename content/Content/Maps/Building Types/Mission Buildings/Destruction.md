@@ -1,0 +1,1 @@
+The player has to blow up the building.
