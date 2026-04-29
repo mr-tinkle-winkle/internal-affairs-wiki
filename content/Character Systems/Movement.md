@@ -18,3 +18,7 @@
 	- Run
 		- The player will lower their center of gravity.
 		- In this mode, the players' speed is significantly increased.
+
+# Movement Design
+The players' limbs can only move via rotation. They are put together with rotors and springs.
+Our characters will generally have less felt inertia than Sub Rosa characters.

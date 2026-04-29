@@ -10,3 +10,4 @@
 - probably in a starry robe
 - probably has a starry hat
 - white, yellow, and team color theme
+- white blood

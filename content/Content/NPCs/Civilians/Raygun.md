@@ -1,0 +1,1 @@
+A play on Reigen Arataka from Mob Psycho. This guy works for Aurum, and acts similarly to Reigen. Maybe dont add.

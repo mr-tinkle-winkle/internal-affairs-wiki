@@ -6,3 +6,4 @@
 - has a shield which can be activated with G
 - can dispense universal ammo with a 2 minute cooldown on H
 # Design
+- black blood like oil

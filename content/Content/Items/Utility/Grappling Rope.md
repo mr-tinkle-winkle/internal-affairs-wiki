@@ -1,0 +1,1 @@
+This is a manual version of the Scout Grappling hook. It does not have an auto reel or spool, so all of that must be done manually-- same with the throwing. It does, however, latch onto anything it hits.

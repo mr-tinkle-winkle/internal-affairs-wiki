@@ -1,0 +1,1 @@
+This makes the player strong and durable, but will make them pass out for (5 multiplied by number of uses in the past day/match squared) seconds after using it. The effects last for 15 seconds.

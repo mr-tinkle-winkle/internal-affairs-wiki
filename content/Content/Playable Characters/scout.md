@@ -11,3 +11,4 @@
 - V shaped torso
 - big bow tie of the company color
 - tuxedo
+- blue blood

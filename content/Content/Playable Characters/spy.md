@@ -15,3 +15,4 @@
 - probably pretty slim horizontally speaking
 - huge moustache
 - hook nose and jutted eyebrows
+- brown blood

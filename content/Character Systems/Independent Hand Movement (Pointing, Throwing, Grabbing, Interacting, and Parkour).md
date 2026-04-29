@@ -9,6 +9,8 @@ With that established, here is how the system applies to each function.
 	- The player can let go by ALT + Clicking the hand that they want to drop an item in. This will not interact with the item (e.g. dropping a gun will not shoot the gun).
 # Grabbing
 - If the player holds Click, the corresponding hand will Grab. Grabbing works on literally anything by default, although it can be disabled in order to not work with specific things.
+	- Grabbing the world only works if grabbing an edge.
+		- 'Edge' detection, if not automatically supported by the game, will just be 'if any of the connected faces have a >60 degree deviation from this face'.
 # Interacting
 - If the player grabs an interactable object, it will automatically be interacted with. 
 - If the player grabs an item that can be picked up, the player will automatically pick it up and it will go into one of their inventory slots.

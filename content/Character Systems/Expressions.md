@@ -25,6 +25,7 @@ Expressions is a system that encompasses facial and body emotes. A player can pe
 # Body Emotes
 - Clapping
 - Thumbs Up
+- Cheering
 - Middle Finger
 	- maybe call it Peace Among Worlds as a rick and morty reference
 - Pockets

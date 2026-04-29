@@ -1,0 +1,1 @@
+This will teleport the player to one of many predefined locations for the map they are in. This is not viable but is used to access some easter eggs.
