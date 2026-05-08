@@ -5,12 +5,25 @@ Special affects for damage will be listed under each category, as well as the  '
 	- Specifically, non-effective damage types do 1x damage, while effective damage types do 3x damage.
 	- Some may not have effective damage types.
 	- An 'Ineffective' damage type means that it deals 1/3 of the damage.
+		- Ineffective damage types have no chance of playing VFX.
 The damage types, and what causes them, are as follows :
 - Impact
 	- Caused by sudden acceleration of the limb in any direction. This is the 'default' damage type.
+	- Plays any of the following onomatopoeia vfx, based on specifically what hit (each thing can play some of these)
+		- WHAM!
+		- SLAM!
+		- BAM!
+		- CRAAAK!
+		- WHACK!
+		- BANG!
 - Sharp
 	- Caused by something 'sharp' moving through or along the limb at a fast speed.
 	- This damage type corresponds with bullets and anything else that is 'sharp'.
+	- Plays any of the following onomatopoeia vfx, based specifically on what hit (each thing can play some of these)
+		- SHINK!
+		- SWISH!
+		- SNIP!
+		- RIIIIP!
 The specific HP of each limb depends on the Robot being played as.
 
 

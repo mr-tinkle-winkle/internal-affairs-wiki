@@ -5,3 +5,4 @@
 # Lore/Design
 - Known for being violent
 - Is the 'middle child' of the main three companies.
+- Uses the 'LifeSavers' font.

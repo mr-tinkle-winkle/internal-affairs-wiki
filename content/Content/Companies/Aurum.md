@@ -6,3 +6,4 @@
 - Is very 'old timey' and 'proper'.
 - is the oldest of the main three companies
 - Aurum means gold.
+- Uses the 'Fraunces' font.
