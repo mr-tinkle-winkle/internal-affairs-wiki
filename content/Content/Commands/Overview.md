@@ -35,3 +35,5 @@ Notes:
 	- Holding click will repeatedly explode the area.
 - setcompany -player- -company-
 - setchar -player- -character-
+- smite -player-
+	- This will spawn a grenade explosion on the player chosen.

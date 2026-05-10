@@ -1,0 +1,1 @@
+This is the 'terrorist' group of the game, or a group that is otherwise not socially acceptable. Any player can join this team, although the world will act as if they are [[Money & Social Credit|Blacklisted]]. This is the only team that Blacklisted players can get actual missions while on.

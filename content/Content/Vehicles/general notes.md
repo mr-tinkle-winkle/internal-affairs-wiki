@@ -1,2 +1,3 @@
 - Crouching in a vehicle, if applicable, will cause the player to lean out the window.
+- Holding Jump will cause handbrake (or a gimmick) to be used.
 - Car Gimmicks will be buttons the player presses on the board unless specified.

@@ -10,9 +10,8 @@
 - pressing H brings up the spy disguise menu from tf2. the player can disguise as any character on any team, and can also disguise as an npc. if disguised as on the same team as an npc (be it an actual team or a civilian team), the npc will not be alerted upon seeing the player.
 	- taking damage will cause you to undisguise, while dealing damage will not.
 # Design
-- maybe a super small head
-	- if a super small head, maybe the disguise (to teammates) looks like the spy just putting on the head of another robot
+- looks like a jester
 - probably pretty slim horizontally speaking
 - huge moustache
-- hook nose and jutted eyebrows
+- hook nose and jutted brow ridges
 - brown blood

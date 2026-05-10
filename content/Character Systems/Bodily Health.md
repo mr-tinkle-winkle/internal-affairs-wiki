@@ -9,6 +9,17 @@ Special affects for damage will be listed under each category, as well as the  '
 The damage types, and what causes them, are as follows :
 - Impact
 	- Caused by sudden acceleration of the limb in any direction. This is the 'default' damage type.
+		- To be clear, there is a check ran whenever a collision occurs. Without being extremely accurate, the code would look something like this:
+			- OLD_VEL = 0
+			- MIN_ACCEL_FOR_DMG = some fine tuned value
+			- ACCEL_DMG_MUILT = some fine tuned value
+			- When the player collides with an object,
+				- If (CURRENT_VEL - OLD_VEL) > MIN_ACCEL_FOR_DMG
+					- DMG = (CURRENT_VEL - OLD_VEL) * ACCEL_DMG_MULT
+					- If DMG > (the limbs max hp)
+						- If limb is fatal limb, kill player.
+						- If limb is non fatal limb, do not kill player.
+				- OLD_VEL = CURRENT_VEL
 	- Plays any of the following onomatopoeia vfx, based on specifically what hit (each thing can play some of these)
 		- WHAM!
 		- SLAM!

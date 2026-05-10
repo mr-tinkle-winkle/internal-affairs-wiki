@@ -1,0 +1,1 @@
+These are electromagnets that can be turned on or off with a button. The button will also react to being shot, as to not softlock a player attached to the magnet.

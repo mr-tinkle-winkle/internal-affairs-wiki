@@ -1,0 +1,1 @@
+A wheelchair with a jet. The gimmick is that you can use the jet by holding the handbrake button.

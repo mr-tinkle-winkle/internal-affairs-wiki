@@ -50,4 +50,5 @@ This character is exclusive to [[Pluribus|Pluribus]] members, specifically those
 	- ALT + Scroll will allow you to choose the 'speed' at which anything in this radius moves at. By default, this will change the speed by 10% every scroll.
 	- CTRL + ALT + Scroll will allow you to edit the speed of one specific object, of which is in your view.
 # Design
-- maybe literally just a pitch black void
+- maybe wearing a super tidy suit
+- maybe wears a comedy mask

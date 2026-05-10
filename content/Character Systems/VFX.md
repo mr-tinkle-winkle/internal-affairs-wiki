@@ -1,0 +1,3 @@
+Certain things can trigger vfx by doing certain things. For example:
+- Car tires, when experiencing major friction (such as while drifting or attempting to brake at high speeds), will show 'SKREEEE!' or similar VFX.
+Players can choose in settings how often THEY want to see onomatopoeia VFX. The server will send out a "likelihood" tick for each VFX, and if the players percentage allows that likelihood, then it will occur. For example, a player with 20% onomatopoeia vfx will require 0.2 likelihood or less, while a player with 200% onomatopoeia vfx will require 2 likelihood or less.
