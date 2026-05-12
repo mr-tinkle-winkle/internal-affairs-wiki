@@ -1,1 +1,1 @@
-Always with [[Einstein]].
+Always with [[Einstein]] and [[Fat]].
