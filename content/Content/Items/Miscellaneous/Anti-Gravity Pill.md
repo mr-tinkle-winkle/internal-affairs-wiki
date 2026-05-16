@@ -1,0 +1,1 @@
+This allows the player a toggle to disable their gravity by holding down a button. This button is, by default, L.

@@ -1,15 +1,21 @@
 Expressions is a system that encompasses facial and body emotes. A player can perform both at the same time. This system also includes the Voice Volumes, which are self explanatory.
 
 - The player can access the Emotes menu by pressing Y.
-- This will show the player Facial Emotes on the left, and Body Emotes on the right.
+- This will show the player Facial Expressions on the left, and Body Emotes on the right.
 	- Certain characters may be locked out of certain emotes.
 	- The player can change which emotes go where through a cog icon between the two emote wheels.
 		- When in the Emote Settings, a player can also add and remove emotes.
 
-- All Facial Emotes are toggles unless stated otherwise.
+- All Facial Expressions are toggles unless stated otherwise.
 - All Body Emotes are toggles unless they require the use of the players' legs.
+- Facial Expressions use Shape Keys in Blender to animate the face.
+	- This means it does not change the geometry/collisions.
+	- This also means you can have granular control over how activated your expression is.
+		- Players can access this ingame by holding click on a facial emote and scrolling up or down. This will show the strength between 0 and 1 in place of the icon.
 
-# Facial Emotes
+# Facial Expressions
+Players can combine facial expressions, as they are just Shape Keys.
+Players can save their facial expressions on a second page.
 - Angry
 	- maybe have a red vein like the cartoon angry effect
 - Sad

@@ -38,6 +38,7 @@ These are things you can do directly in the phone, e.g. settings. This is also h
 		- This is to reduce lag, as syncing every players' photos and videos would be ENORMOUS on storage, especially if one dude has like 4 gigabytes of videos stored after playing for a while.
 - Phone
 	- The phone, as expected, allows you to call other players by dialing their phone number.
+		- While the Phone is in a pocket, the call only makes noise to the player with the phone.
 	- During a call, you can turn on 'Speaker', which makes the call loud enough to be heard by people around you
 	- During a call, you can turn on 'Video', which shows a video feed to the other player. There is also a 'Flip Camera' button, which will flip the camera 180 degrees.
 - Flashlight
@@ -62,3 +63,5 @@ These are things you can do directly in the phone, e.g. settings. This is also h
 	- This is not on normal phones, and will be exclusively available on Burner Phones that have it.
 - Clicker
 	- The Clicker app allows the player to play a idle simulator game. Might not add.
+- Talking Plurb
+	- This is a Pluribus app where you can talk to various (or just one maybe) characters. This is nearly identical to Talking Ben.

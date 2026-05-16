@@ -1,1 +1,1 @@
-Land a Sticky [[Grenade]] directly on a player.
+Land a Sticky [[Bomb-Pie]] directly on a player.

@@ -20,6 +20,8 @@ The damage types, and what causes them, are as follows :
 						- If limb is fatal limb, kill player.
 						- If limb is non fatal limb, do not kill player.
 				- OLD_VEL = CURRENT_VEL
+	- Can also be caused by a major velocity difference between something colliding with the player and the player.
+		- This check is ran at the same time as the other check.
 	- Plays any of the following onomatopoeia vfx, based on specifically what hit (each thing can play some of these)
 		- WHAM!
 		- SLAM!

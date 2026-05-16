@@ -3,3 +3,10 @@
 - The players' character is rendered above the Hand Slots in a wireframe view.
 	- This is called the 'Character Visualizer'.
 	- The point of this is to give the player a good idea as to their players' orientation.
+- The player can take off their shoes, leaving them in just their socks.
+	- This is activated by grabbing your own foot and interacting. Doing this on one foot will do it on both. Your shoes will then be in your hand, and can be put in your inventory as an item, or dropped on the floor.
+		- Shoes are character-independent, for the sake of ease of use.
+- Any robot with a hat of any kind can absorb one headshot, which will knock off their hat.
+	- This ignores overkill damage. If a headshot is extremely overkill, it will just kill the player.
+	- You can pick up your hat from the floor and put it on, but it also regens slowly.
+		- Once your hat has regenerated, it will delete from the floor.

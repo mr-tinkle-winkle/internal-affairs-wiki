@@ -37,3 +37,5 @@ Notes:
 - setchar -player- -character-
 - smite -player-
 	- This will spawn a grenade explosion on the player chosen.
+- action -player- -action- -duration-
+	- This forces the player to do one specific action, such as dropping an item, walking forward, jumping, etc.

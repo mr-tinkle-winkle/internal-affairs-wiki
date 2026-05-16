@@ -4,6 +4,7 @@ With that established, here is how the system applies to each function.
 # Pointing
 - The player can point by doing this with an empty hand. Not much to say here. Nothing special even needs to be added for this.
 - On the topic of free hand movement, it is worth mentioning that if you have both hands extended AND one of them is holding onto something, the free hand will point while the 'used' hand will not move.
+- The player can control the distance they hold out their hand at by scrolling while holding alt.
 # Throwing
 - By moving the hand and letting go at the same time, the player can throw whatever is in their hand. Nothing special needs to be added for this either.
 	- The player can let go by ALT + Clicking the hand that they want to drop an item in. This will not interact with the item (e.g. dropping a gun will not shoot the gun).
